@@ -1,4 +1,7 @@
 # Basic-JS
 
-
-Basic calculator App built using JS to get an understanding of the language
+a collection of simple programs built to get an understanding of JS
+- Basic calculator App
+- Counter app (on click)
+- Blackjack
+- Chrome Extension 
